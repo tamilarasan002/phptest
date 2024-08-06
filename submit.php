@@ -1,9 +1,9 @@
 <?php
 // Database connection parameters
-$host = 'your-postgresql-host';
-$db = 'your-database-name';
-$user = 'your-database-username';
-$pass = 'your-database-password';
+$host = '34.69.129.33';
+$db = phptest';
+$user = 'admin';
+$pass = '12qwaszx';
 $port = '5432';
 
 // Create connection
