@@ -1,7 +1,7 @@
 <?php
 // Database connection parameters
 $host = '34.69.129.33';
-$db = phptest';
+$db = 'phptest';
 $user = 'admin';
 $pass = '12qwaszx';
 $port = '5432';
